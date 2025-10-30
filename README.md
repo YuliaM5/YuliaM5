@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Привет, я Юля
 
-<!--
-**YuliaM5/YuliaM5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Студентка**
+Создаю веб-приложения от идеи до реализации. Постоянно учусь и развиваюсь в IT.
 
-Here are some ideas to get you started:
+**💡 Основные направления:**
+- Python
+- Математика
+- Экономика
+- Научные проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📫 Свяжитесь со мной:**
+[Email](mailto: martynova-yv@bk.ru)
+
+**🌟 Избранные проекты:**
+- **[Веб-приложение](https://github.com/YuliaM5/YuliaMartynova)** — Тест "Кто ты из смешариков?"
+
+
+**🛠️ Технологии:**
+`Python` `HTML` 
